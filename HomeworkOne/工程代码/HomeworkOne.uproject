@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D2B64694-466A-F1D9-625F-8BA30F15C7B6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HomeworkOne",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
